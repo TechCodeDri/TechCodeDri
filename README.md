@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/TechCodeDri/Projeto_acervo.me.git)"><b>Acervo de Livros</b></a></td>
+    <td><a href="https://github.com/TechCodeDri/Projeto_acervo.me.git"><b>Acervo de Livros</b></a></td>
     <td><a href="https://github.com/TechCodeDri/Sistema-Pagamento.git"><b>Projeto FullStack de Sistema de pagamento</b></a></td>
   </tr>
   <tr>
