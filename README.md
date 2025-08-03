@@ -1,11 +1,11 @@
 <div align="center">
   
-<H1>Olá, Meu nome é Adriana Medeiros 👋</H1>
+<H1>Olá 👋, Meu nome é Adriana Medeiros </H1>
 
 `🎓 Bacharel em Sistema de Informação |  🔧 Back-End Developer  | ❤️ Apaixonada por Tecnologia `
 
 
-<p align="center"> Atualmente, focada em me tornar um desenvolvedor back-end em Java. Estudando Spring Boot, e outras tecnologias essenciais para o desenvolvimento back-end. Sempre em busca de aprendizado contínuo e aprimoramento das minhas habilidades.</p>
+<p align="center"> Atualmente, transitando de analista de suporte para desenvolvedora back-end em Java. Estudando e fortemente focada na linguagem Java com o framework Spring Boot, e outras tecnologias essenciais para o desenvolvimento back-end. Sempre em busca de aprendizado contínuo e aprimoramento das minhas habilidades.</p>
 
 <div align ="center">
 <h4> Contato :<h4>
