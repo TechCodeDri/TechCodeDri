@@ -56,7 +56,7 @@
     <tr>
       <td><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></td>
       <td><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white"</td>
-      <td><img src=" "</td>
+      <td></td>
       <td><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"</td>
     </tr>
     <tr>
