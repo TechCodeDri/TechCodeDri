@@ -5,7 +5,7 @@
 `🎓 Bacharel em Sistema de Informação |  🔧 Back-End Developer  | ❤️ Apaixonada por Tecnologia `
 
 
-<p align="center"> Atualmente, transitando de analista de suporte para desenvolvedora back-end em Java. Estudando e fortemente focada na linguagem Java com o framework Spring Boot, e outras tecnologias essenciais para o desenvolvimento back-end. Sempre em busca de aprendizado contínuo e aprimoramento das minhas habilidades.</p>
+<p align="center"> Analista de Sustentação em uma startup de tecnologia, construindo minha jornada rumo ao desenvolvimento Full Stack com Java e Angular. Mergulhada no ecossistema back-end com Spring Boot, no front-end com Angular, e usando IA como ferramenta estratégica para aprender mais rápido e melhor. Acredito que consistência e curiosidade são os maiores diferenciais de uma boa desenvolvedora.</p>
 
 <div align ="center">
 <h4> Contato :<h4>
